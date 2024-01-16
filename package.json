@@ -1,0 +1,17 @@
+{
+  "name": "fs91-goit-node-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "commander": "^11.1.0",
+    "nanoid": "^5.0.4",
+    "prettier": "^3.2.2"
+  }
+}
